@@ -1,7 +1,7 @@
 # Etcathon 1 : the first Ethereum Classic Hackathon
 An ETC Hackathon platform building the future! 
 
-This is a website for the first Ethereum Classic Hackathon namded [Etcathon](etcathon.org)
+This is a website for the first Ethereum Classic Hackathon namded [Etcathon](http://www.etcathon.org)
 
 
 ## About
@@ -118,7 +118,7 @@ XiaomaiLive
 
 **ECC--Ethereum Classic Consortium 以太坊原链协会**
 
-[ETC.TM](www.etc.tm)
+[ETC.TM](http://www.etc.tm/)
 
 ## Supervisor
 
