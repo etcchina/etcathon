@@ -1,4 +1,4 @@
-# etcathon 1 : the first Ethereum Classic Hackathon
+# Etcathon 1 : the first Ethereum Classic Hackathon
 An ETC Hackathon platform building the future! 
 This is a website for the first Ethereum Classic Hackathon namded [Etcathon](etcathon.org)
 
