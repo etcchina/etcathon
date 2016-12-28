@@ -24,7 +24,8 @@ Dianrong.com
 ## Schedule
 
 **January 13th**
-18：00—18：30 Signing in time
+
+18：00—18：30 Registration
 
 18：30—19：00 Opening
 
