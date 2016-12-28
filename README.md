@@ -116,7 +116,7 @@ XiaomaiLive
 
 ## Organizor
 
-**Ethereum Classic Consortium以太坊原链协会**
+**ECC--Ethereum Classic Consortium 以太坊原链协会**
 
 ## Supervisor
 
