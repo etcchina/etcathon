@@ -1,3 +1,19 @@
-theme: jekyll-theme-cayman
+# Basic Info
 title: Etcathon
 tagline: An ETC Hackathon Building The Future
+description: > # this means to ignore newlines until "baseurl:"
+  An ETC Hackathon Building The Future
+twitter_username: etcchina
+github_username:  etcchina
+paginate:     1
+
+# Build settings
+theme: jekyll-cayman-theme
+exclude:
+  - README.md
+
+# About/contact
+author:
+  name: ETC China
+  url: http://etcathon.org
+
