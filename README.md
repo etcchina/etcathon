@@ -1,10 +1,12 @@
-# Welcome to the first Ethereum Classic Hackathon: [Etcathon](https://www.etcathon.org)
+# ETCATHON
+
+Welcome to the first Ethereum Classic Hackathon: [Etcathon](https://www.etcathon.org)
 
 ## About
 
-We envision Etcathon to be a widely participated collaboration accross Bitcoin and other cryptocurrencies community.
+We want Etcathon to be a collaboration across Bitcoin and other cryptocurrencies community.
 Partnered with [Tecent Public Space(Shanghai)](), [Gingkoo]() and [Dianrong](https://www.dianrong.com),
-we want to deliver this event as a platform that helps grow the ecosystem of Ethereum Classic
+we deliver this event as a platform that would help nurture the ecosystem of Ethereum Classic
 
 ## Schedule
 
