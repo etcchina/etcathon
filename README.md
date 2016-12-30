@@ -1,9 +1,3 @@
----
-layout: default
-title: Etcathon
-description: An ETC Hackathon Building The Future
----
-
 # Welcome to the first Ethereum Classic Hackathon: [Etcathon](https://www.etcathon.org)
 
 ## About
