@@ -42,7 +42,7 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 
 ## Sponsors
 
-- [Bitkio - Blockchain Powered Intelligent Machine](http://bitkio.com/)
+- [BITKIO - Blockchain Powered Intelligent Machine](http://bitkio.com/)
 - [CHBTC](https://www.chbtc.com/)
 - [Bitbank-Block Chain Finance](https://bitbank.com/)
 - [RadarWin-雷盈企业管理(上海)](http://radarwin.com/)
