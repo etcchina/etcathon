@@ -1,12 +1,18 @@
+---
+layout: default
+title: Etcathon
+description: Welcome to the first Ethereum Classic Hackathon
+---
+
 # ETCATHON
 
 Welcome to the first Ethereum Classic Hackathon: [Etcathon](https://www.etcathon.org)
 
 ## About
 
-We want Etcathon to be a collaboration across Bitcoin and other cryptocurrencies community.
-Partnered with [Tecent Public Space(Shanghai)](), [Gingkoo]() and [Dianrong](https://www.dianrong.com),
-we deliver this event as a platform that would help nurture the ecosystem of Ethereum Classic
+We want Etcathon to be a broad collaboration across Bitcoin and other cryptocurrency communities.
+
+We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 
 ## Schedule
 
@@ -35,45 +41,26 @@ we deliver this event as a platform that would help nurture the ecosystem of Eth
 - **12:30 - 13:30** Lunch Time
 - **14:00 - 17:00** Project Roadshow _(Roadshow Judge：TBD)_
 
+## Partners
+
+- Tecent Public Space (Shanghai)
+- [Gingkoo](http://www.gingkoo.com)
+- [Dianrong](https://www.dianrong.com)
+
 ## Sponsors
 
-Bitkio
-
-CHBTC
-
-Bitbank
-
-RadarWin
-
-ViewFin
+- [Bitkio - Great Digital Kiosks & Digital Signage](www.bitkio.com)
+- [CHBTC](https://www.chbtc.com/)
+- [Bitbank-Block Chain Finance](https://bitbank.com/)
+- [RadarWin-雷盈企业管理(上海)](http://radarwin.com/)
+- [ViewFin维优区块链](http://viewfin.com/)
 
 ## Media Coverage
 
-8BTC
-
-BTC Media
-
-Coindesk
-
-LJZFIN.com
-
-Tencent
-
-sh.QQ.com
-
-China Business Network
-
-Eastday.com
-
-Ifeng.com
-
-Sohu.com
-
-Netease.com
-
-Sina
-
-XiaomaiLive
+8BTC|BTC Media|Coindesk|LJZFIN.com
+Tencent|sh.QQ.com|China Business Network|Eastday.com
+Ifeng.com|Sohu.com|Netease.com|Sina
+XiaomaiLive|
 
 ## Organizor
 
@@ -87,11 +74,9 @@ XiaomaiLive
 
 ## Co-Organizor
 
-Bitkio
-
-ETCWin
-
-Zhuangyi
+- [Bitkio - Great Digital Kiosks & Digital Signage](www.bitkio.com)
+- [ETCWin-币盈网](https://www.etcwin.com/)
+- Zhuangyi
 
 ## Date
 
@@ -106,4 +91,3 @@ No.18, Dongyuan Road, Lujiazui
 Shanghai, China
 
 ![Location](location.png)
- 
