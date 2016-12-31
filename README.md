@@ -3,8 +3,6 @@
 
 Welcome to the first Ethereum Classic Hackathon: [Etcathon](https://www.etcathon.org)
 
-## About
-
 We want Etcathon to be a broad collaboration across Bitcoin and other cryptocurrency communities.
 
 We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
