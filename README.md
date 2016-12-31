@@ -9,7 +9,7 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 
 ## Schedule
 
-### January 13th
+### January (first day)
 
 - **18:00 - 18:30** Registration
 - **18:30 - 19:00** Opening _(Host guest ：TBD)_
@@ -17,7 +17,7 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 - **19:30 - 20:30** Pitch
 - **20:30 - 21:00** Team up _(Participating teams：20+)_
 
-### January 14th
+### January (2nd day)
 
 - **09:30 - 12:00** Instructor Lecture Time _(Participating Guest：TBD)_
 - **12:00 - 13:00** Lunch Time
@@ -27,7 +27,7 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 - **18:30 - 19:30** Dinner Time
 - **19:30 - 22:00** Product Prototype Development
 
-### January 15th
+### January (3rd day)
 
 - **09:30 - 11:30** Product Prototype Development
 - **11:30 - 12:30** Instructor Grouping Guidance _(Instructor Guest ：TBD)_
@@ -57,7 +57,7 @@ XiaomaiLive|
 
 ## Organizor
 
-**ECC--Ethereum Classic Consortium 以太坊原链协会**
+**Ethereum Classic Consortium(ECC) 以太坊原链协会**
 
 [ETC.TM](http://www.etc.tm/)
 
@@ -67,7 +67,7 @@ XiaomaiLive|
 
 ## Co-Organizor
 
-- [Bitkio - Great Digital Kiosks & Digital Signage](www.bitkio.com)
+- [Bitkio - A Blockchain-based Intelligent Machine ](http://bitkio.com/)
 - [ETCWin-币盈网](https://www.etcwin.com/)
 - Zhuangyi
 
