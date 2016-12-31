@@ -1,8 +1,3 @@
----
-layout: default
-title: Etcathon
-description: Welcome to the first Ethereum Classic Hackathon
----
 
 # ETCATHON
 
