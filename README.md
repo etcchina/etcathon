@@ -9,7 +9,7 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 
 ## Schedule
 
-### January (first day)
+### February (first day)
 
 - **18:00 - 18:30** Registration
 - **18:30 - 19:00** Opening _(Host guest ：TBD)_
@@ -17,7 +17,7 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 - **19:30 - 20:30** Pitch
 - **20:30 - 21:00** Team up _(Participating teams：20+)_
 
-### January (2nd day)
+### February (2nd day)
 
 - **09:30 - 12:00** Instructor Lecture Time _(Participating Guest：TBD)_
 - **12:00 - 13:00** Lunch Time
@@ -27,26 +27,30 @@ We hope Etcathon can help nurture the ecosystem of Ethereum Classic.
 - **18:30 - 19:30** Dinner Time
 - **19:30 - 22:00** Product Prototype Development
 
-### January (3rd day)
+### February (3rd day)
 
 - **09:30 - 11:30** Product Prototype Development
 - **11:30 - 12:30** Instructor Grouping Guidance _(Instructor Guest ：TBD)_
 - **12:30 - 13:30** Lunch Time
 - **14:00 - 17:00** Project Roadshow _(Roadshow Judge：TBD)_
 
-## Partners
-
-- Tecent Public Space (Shanghai)
-- [Gingkoo](http://www.gingkoo.com)
-- [Dianrong](https://www.dianrong.com)
-
 ## Sponsors
 
-- [BITKIO - Blockchain Powered Intelligent Machine](http://bitkio.com/)
+- [BITKIO](http://bitkio.com/)
 - [CHBTC](https://www.chbtc.com/)
-- [Bitbank-Block Chain Finance](https://bitbank.com/)
+- [Digital Currency Group](http://dcg.co/)
 - [RadarWin-雷盈企业管理(上海)](http://radarwin.com/)
 - [ViewFin维优区块链](http://viewfin.com/)
+
+## Partners
+
+- [BTCC](https://www.btcc.com/)
+- [DACA](http://www.daca.asia/)
+- [Dianrong](https://www.dianrong.com)
+- [ether.camp](https://hack.ether.camp/)
+- [Gingkoo](http://www.gingkoo.com)
+- Tecent Public Space (Shanghai)
+
 
 ## Media Coverage
 
@@ -67,7 +71,7 @@ XiaomaiLive|
 
 ## Co-Organizor
 
-- [Bitkio - A Blockchain-based Intelligent Machine ](http://bitkio.com/)
+- [BITKIO](http://bitkio.com/)
 - [ETCWin-币盈网](https://www.etcwin.com/)
 - Zhuangyi
 
