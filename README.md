@@ -1,7 +1,7 @@
 
 # ETCATHON
 
-Welcome to the first Ethereum Classic Hackathon: [Etcathon](https://www.etcathon.org)
+Welcome to the first Ethereum Classic Hackathon: [Etcathon 1](https://www.etcathon.org)
 
 We want Etcathon to be a broad collaboration across Bitcoin and other cryptocurrency communities.
 
