@@ -67,7 +67,7 @@ XiaomaiLive|
 
 ## Supervisor
 
-**Lujiazui Block Chain Financial Development Alliance**
+**Lujiazui Blockchain Financial Development Alliance**
 
 ## Co-Organizor
 
