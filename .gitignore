@@ -1,11 +1,9 @@
 _site
 _includes
-_layouts
 _posts
-css
-index.html
 .sass-cache
 .jekyll-metadata
 .idea
 Gemfile
 Gemfile.lock
+.DS_Store
