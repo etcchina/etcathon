@@ -2,5 +2,3 @@ theme: jekyll-theme-cayman
 title: etcathon
 description: An ETC Hackathon Building The Future
 background: './background.jpg'
-github:
-  is_project_page: false
