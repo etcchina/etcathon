@@ -75,7 +75,7 @@ XiaomaiLive|
 
 ## Date
 
-January 13th to 15th, 2017
+February, 2017
 
 ## Location
 
