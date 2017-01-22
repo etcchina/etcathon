@@ -7,7 +7,7 @@ Etcathon is a broad collaboration across Bitcoin and other cryptocurrency commun
 
 ## Schedule
 
-### February (first day)
+### February 24th
 
 - **18:00 - 18:30** Registration
 - **18:30 - 19:00** Opening _(Host guest ：TBD)_
@@ -15,8 +15,7 @@ Etcathon is a broad collaboration across Bitcoin and other cryptocurrency commun
 - **19:30 - 20:30** Pitch
 - **20:30 - 21:00** Team up _(Participating teams：20+)_
 
-### February (2nd day)
-
+### February 25th
 - **09:30 - 12:00** Instructor Lecture Time _(Participating Guest：TBD)_
 - **12:00 - 13:00** Lunch Time
 - **13:00 - 15:00** Team Brainstorming
@@ -25,7 +24,7 @@ Etcathon is a broad collaboration across Bitcoin and other cryptocurrency commun
 - **18:30 - 19:30** Dinner Time
 - **19:30 - 22:00** Product Prototype Development
 
-### February (3rd day)
+### February 26th
 
 - **09:30 - 11:30** Product Prototype Development
 - **11:30 - 12:30** Instructor Grouping Guidance _(Instructor Guest ：TBD)_
@@ -75,7 +74,7 @@ XiaomaiLive|
 
 ## Date
 
-February, 2017
+February 24th-26th, 2017
 
 ## Location
 
