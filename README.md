@@ -45,6 +45,7 @@ Etcathon is a broad collaboration across Bitcoin and other cryptocurrency commun
 - [DACA](http://www.daca.asia/)
 - [Dianrong](https://www.dianrong.com)
 - [ether.camp](https://hack.ether.camp/)
+- Fintech Salon丰钛沙龙
 - [Gingkoo](http://www.gingkoo.com)
 - Tecent Public Space (Shanghai)
 
