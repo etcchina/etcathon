@@ -90,7 +90,7 @@ SDG-Sustainable Development Goals
 - 沈陶磊 雷盈金融科技CEO
 
 ## 指导单位
-### 陆家嘴金融区块链联盟
+陆家嘴金融区块链联盟
 
 ## 承办单位
 
