@@ -45,24 +45,25 @@ Etcathon 是黑客马拉松系列FinTech Connect的首届活动，是国内
 
 ## Philip McMaster(DaLong) Etcathon形象大使
 
-### Etcathon不止是黑客马拉松
-### 我们赞美正义，善良的价值观
+Etcathon不止是黑客马拉松
+
+我们赞美正义，善良的价值观
 
 DaLong与以太坊原链协会ECC一起
 传播联合国可持续发展目标
 
-### SDG-Sustainable Development Goals
+SDG-Sustainable Development Goals
 
 
 **赞助商SPONSORS**
 没有他们，这一切不可能发生！
 
-- 维优元界
+- 维优元界|
 - 比特时代BTC38|
-- 雷盈金融科技 
-- CCEG区块链实验室
-- DCG数字货币集团
-- 杭州复杂美科技
+- 雷盈金融科技| 
+- CCEG区块链实验室|
+- DCG数字货币集团|
+- 杭州复杂美科技|
 
 **演讲嘉宾** (排名不分先后)
 
@@ -93,14 +94,23 @@ DaLong与以太坊原链协会ECC一起
 
 ## 承办单位
 
-- [BITKIO比齐奥科技](http://bitkio.com/)
-- [ETCWin-币盈网](https://www.etcwin.com/)
-- 专逸科技
+- [BITKIO比齐奥科技](http://bitkio.com/)|
+- [ETCWin-币盈网](https://www.etcwin.com/)|
+- 专逸科技|
+
 ## 独家媒体主持
-### 巴比特8BTC
+巴比特8BTC
 
 ## 合作媒体及社区
-### 陆家嘴金融网、小麦直播、 ETC国际社区BTC、sosobtc、Media、ETCFans、ETC.today、ETC.TM、ETCChina.io
+- 陆家嘴金融网
+- 小麦直播
+- ETC国际社区BTC
+- sosobtc
+- BTC Media
+- ETCFans
+- ETC.today
+- ETC.TM
+- ETCChina.io
 
 ## 协办单位
 
@@ -118,7 +128,8 @@ DaLong与以太坊原链协会ECC一起
 - Fundonomy
 
 ## 活动说明
-### 团队
+**团队**
+
 主办机构与赞助商将共同负责提名或选择团队， 每个小组将由3
 到5名成员组成，他们可能是参与者，导师或赞助商合作伙伴。
 在初始阶段，2月24日前，赞助商可以提名一个（或两个）团
@@ -127,17 +138,19 @@ DaLong与以太坊原链协会ECC一起
 场进行自由组队，最终竞争小组名单将于2017年2月25日公
 布。Ether.Camp将为参赛队伍提供网上预演。
 
-### 数据源
+**数据源**
 主办方ECC提供的数据源，团队可以使用他们可能提前准备的其
 他数据源。这些附加数据源应具有普适性，可以是其它项目区块
 链(如比特币)公开的数据源。
 
-### 产品原型
+**产品原型**
+
 参赛者经过3天的开发，最后的产品原型可以为一套数据系统，
 具体应用，能够实现方案提出时的全部或部分功能。
 获胜者和赞助商将在全球加密社区展示他们的原型。
 
-### 评委小组
+**评委小组**
+
 独立的评委小组将根据相关评判标准负责评估竞争团队开发的原
 型产品，其成员主要来自国内外加密货币社区和金融领域。
 
