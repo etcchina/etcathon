@@ -59,12 +59,12 @@ SDG-Sustainable Development Goals
 **赞助商SPONSORS**
 没有他们，这一切不可能发生！
 
-- 维优元界
-- 比特时代BTC38
-- 雷盈金融科技
-- CCEG区块链实验室
-- DCG数字货币集团
-- 杭州复杂美科技
+- [维优元界](http://viewfin.com/)
+- [比特时代BTC38](http://www.btc38.com/)
+- [雷盈金融科技](http://radarwin.com/)
+- [CCEG区块链实验室](http://www.cceg.org.uk/lab)
+- [DCG数字货币集团](http://dcg.co/)
+- [杭州复杂美科技](https://33.cn/)
 
 **演讲嘉宾** (排名不分先后)
 
