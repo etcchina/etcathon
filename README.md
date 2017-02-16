@@ -56,7 +56,7 @@ DaLong与以太坊原链协会ECC一起
 SDG-Sustainable Development Goals
 
 
-**赞助商SPONSORS**
+## 赞助商SPONSORS
 没有他们，这一切不可能发生！
 
 - [维优元界](http://viewfin.com/)
@@ -85,8 +85,7 @@ SDG-Sustainable Development Goals
 
 - 初夏虎 维优CEO 
 - 黄天威 比特时代 CEO 
-- Maryam Taghiyeva 
-- CCEG高级发展分析师 
+- Maryam Taghiyeva CCEG高级发展分析师 
 - 吴思进 复杂美科技CEO 
 - 沈陶磊 雷盈金融科技CEO
 
@@ -140,6 +139,7 @@ SDG-Sustainable Development Goals
 布。Ether.Camp将为参赛队伍提供网上预演。
 
 **数据源**
+
 主办方ECC提供的数据源，团队可以使用他们可能提前准备的其
 他数据源。这些附加数据源应具有普适性，可以是其它项目区块
 链(如比特币)公开的数据源。
