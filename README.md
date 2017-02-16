@@ -9,7 +9,7 @@
 
 [etcathon.org](http://etcathon.org/)
 
-## Organizor
+## 主办方
 
 [**Ethereum Classic Consortium(ECC) 以太坊原链协会**](http://www.etc.tm/)
 
