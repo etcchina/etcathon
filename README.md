@@ -161,15 +161,14 @@ SDG-Sustainable Development Goals
 
 ## Etcathon黑客马拉松日程安排
 
-### February 24th
-
+### 2月24日
 - **18:00 - 18:30** 签到时间
 - **18:30 - 19:00** 主持开场、破冰
 - **19:00 - 19:30** 赞助商需求Post
 - **19:30 - 20:30** 方案Pitch
 - **20:30 - 21:00** 组队Team
 
-### February 25th
+### 2月25日
 - **09:30 - 10:30** 嘉宾演讲
 - **10:30 - 12:00** 导师选定指导团队，确定项目方向
 - **12:00 - 13:00** 午餐 
@@ -177,7 +176,7 @@ SDG-Sustainable Development Goals
 - **18:30 - 19:30** 晚餐
 - **19:30 - 22:00** 产品原型开发
 
-### February 26th
+### 2月26日
 
 - **09:30 - 11:30** 产品原型开发
 - **11:30 - 12:30** 导师分组指导
@@ -193,3 +192,9 @@ SDG-Sustainable Development Goals
 中国上海陆家嘴东园路18号  中国金融信息中心
 
 ![Location](location.png)
+
+## 报名方式
+
+Roy: etcchinese@gmail.com
+
+Max:max@msan.cn
