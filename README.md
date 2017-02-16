@@ -11,10 +11,7 @@
 
 ## Organizor
 
-**Ethereum Classic Consortium(ECC) 以太坊原链协会**
-
-[ETC.TM](http://www.etc.tm/)
-
+[**Ethereum Classic Consortium(ECC) 以太坊原链协会**](http://www.etc.tm/)
 
 ## Etcathon 是啥？
 
@@ -32,22 +29,21 @@ Etcathon 是黑客马拉松系列FinTech Connect的首届活动，是国内
 
 ### 宣传大使 美女主持 免费英国10天行 区块链导师 顶级赞助商 全球社区连线 重量级演讲嘉宾 更多待你发现...
 
-## 您拥有50小时从头开始构建区块链产品，与
-## 100多名其他参与者，争夺属于
-## 你团队的荣誉：
+### 您拥有50小时从头开始构建区块链产品，与
+### 100多名其他参与者，争夺属于
+### 你团队的荣誉：
 
-## 状元: 10天英国行
-## 探花: 元界特别奖
-## 榜眼: ￥5000
+### 状元: 10天英国行
+### 探花: 元界特别奖
+### 榜眼: ￥5000
 
-## 写代码，遇见你的知友，享受你的Tea！
-## <> 欢迎任何开发者</>
+### 写代码，遇见你的知友，享受你的Tea！
+### <> 欢迎任何开发者</>
 
-## <虚拟营> 支持 [Ether.camp](https://etc.ether.camp/)
+## <虚拟营> 支持  
+[Ether.camp](https://etc.ether.camp/)
 
-## Philip McMaster(DaLong)
-
-## Etcathon形象大使
+## Philip McMaster(DaLong) Etcathon形象大使
 
 ### Etcathon不止是黑客马拉松
 ### 我们赞美正义，善良的价值观
@@ -58,42 +54,44 @@ DaLong与以太坊原链协会ECC一起
 ### SDG-Sustainable Development Goals
 
 
-# 赞助商SPONSORS
-## 没有他们，这一切不可能发生！
+**赞助商SPONSORS**
+没有他们，这一切不可能发生！
 
 ### 维优元界|比特时代BTC38|雷盈金融科技 
 ### CCEG区块链实验室|DCG数字货币集团|杭州复杂美科技
 
-## 演讲嘉宾 
-(排名不分先后)
+**演讲嘉宾** (排名不分先后)
 
-### 韩锋 DACA秘书长 Matt Mazur ECIP-1017的作者 范磊博士 上海交通大学 副教授 郭宏才 比特币天使投资人
+- 韩锋 DACA秘书长
+- Matt Mazur ECIP-1017的作者 
+- 范磊博士 上海交通大学 副教授 
+- 郭宏才 比特币天使投资人
 
-## 导师团
-(排名不分先后)
+**导师团** (排名不分先后)
 
-### Maryam Taghiyeva CCEG高级发展分析师 朗豫 巴比特CTO 初夏虎 维优CEO 董元林 雷盈科技技术总监 
+- Maryam Taghiyeva CCEG高级发展分析师 
+- 朗豫 巴比特CTO 
+- 初夏虎 维优CEO 
+- 董元林 雷盈科技技术总监 
+- David Johnston Factom 董事长
 
-### David Johnston Factom 董事长
+**评委团** (排名不分先后)
 
-
-## 评委团
-(排名不分先后)
-
-### 初夏虎 维优CEO 黄天威 比特时代 CEO Maryam Taghiyeva CCEG高级发展分析师 
-
-### 吴思进 复杂美科技CEO 沈陶磊 雷盈金融科技CEO
+- 初夏虎 维优CEO 
+- 黄天威 比特时代 CEO 
+- Maryam Taghiyeva 
+- CCEG高级发展分析师 
+- 吴思进 复杂美科技CEO 
+- 沈陶磊 雷盈金融科技CEO
 
 ## 指导单位
 ### 陆家嘴金融区块链联盟
 
 ## 承办单位
 
-- [BITKIO](http://bitkio.com/)
+- [BITKIO比齐奥科技](http://bitkio.com/)
 - [ETCWin-币盈网](https://www.etcwin.com/)
-- Zhuangyi
-
-
+- 专逸科技
 ## 独家媒体主持
 ### 巴比特8BTC
 
@@ -167,7 +165,7 @@ DaLong与以太坊原链协会ECC一起
 
 ## 时间
 
-February 24th-26th, 2017年2月24号-26号 
+2017年2月24号-26号 
 
 ## 地点
 
