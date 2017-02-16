@@ -38,6 +38,7 @@ Etcathon 是黑客马拉松系列FinTech Connect的首届活动，是国内
 - 榜眼: ￥5000
 
 写代码，遇见你的知友，享受你的Tea！
+
 <> 欢迎任何开发者</>
 
 ## <虚拟营> 支持  
@@ -58,12 +59,12 @@ SDG-Sustainable Development Goals
 **赞助商SPONSORS**
 没有他们，这一切不可能发生！
 
-- 维优元界|
-- 比特时代BTC38|
-- 雷盈金融科技| 
-- CCEG区块链实验室|
-- DCG数字货币集团|
-- 杭州复杂美科技|
+- 维优元界
+- 比特时代BTC38
+- 雷盈金融科技
+- CCEG区块链实验室
+- DCG数字货币集团
+- 杭州复杂美科技
 
 **演讲嘉宾** (排名不分先后)
 
@@ -94,9 +95,9 @@ SDG-Sustainable Development Goals
 
 ## 承办单位
 
-- [BITKIO比齐奥科技](http://bitkio.com/)|
-- [ETCWin-币盈网](https://www.etcwin.com/)|
-- 专逸科技|
+- [BITKIO比齐奥科技](http://bitkio.com/)
+- [ETCWin-币盈网](https://www.etcwin.com/)
+- 专逸科技
 
 ## 独家媒体主持
 巴比特8BTC
