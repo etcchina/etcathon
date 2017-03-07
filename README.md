@@ -149,8 +149,7 @@ SDG-Sustainable Development Goals
 
 **相关开发题目**
 
-- **SDG Dapps** 详情请[**点击**](https://pan.baidu.com/s/1eS9nkXk)
-
+- **SDG Dapps** 详情请浏览[**PDF**](https://pan.baidu.com/s/1eS9nkXk),[**PPT**](https://pan.baidu.com/s/1c2tIkus)
 
 
 **产品原型**
