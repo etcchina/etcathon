@@ -40,7 +40,7 @@ Etcathon 是黑客马拉松系列FinTech Connect的首届活动，是国内
 - 探花: 元界特别奖
 - 榜眼: ￥5000
 
-写代码，遇见你的知友，享受你的Tea，Show出你的Dapps！
+写代码，遇见你的知友，享受你的Tea，Show你的第一个区块链Dapps！
 
 <> 欢迎任何开发者</>
 
@@ -153,7 +153,7 @@ SDG-Sustainable Development Goals
 
 **产品原型**
 
-参赛者经过2天的开发，最后的产品原型可以为一套可运在BTC或ETC区块链上的Dapps，
+参赛者经过2天的开发，最后的产品原型可以为一套可运行在BTC或ETC区块链上的Dapps，
 能够实现方案提出时的全部或部分功能。
 获胜者和赞助商将在全球加密社区展示他们的原型。
 
@@ -199,5 +199,4 @@ SDG-Sustainable Development Goals
 
 ## 报名方式
 通过活动行报名或发送电子邮件到 etcchinese@gmail.com
-
-
+活动行
