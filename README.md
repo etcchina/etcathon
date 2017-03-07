@@ -148,13 +148,13 @@ SDG-Sustainable Development Goals
 
 **相关开发题目**
 
-- 金融、医疗、教育、零售、物联网相关行业的区块链Dapps开发
-- **SDG Dapps** 详情请浏览[**PDF**](https://pan.baidu.com/s/1eS9nkXk),[**PPT**](https://pan.baidu.com/s/1sl96I5Z),胜出者为英国免费10天行。
+- 金融、医疗、教育、零售、物联网等相关行业的区块链Dapps开发
+- **[SDG Dapps](http://www.bisgit.org/lab)** 详情请浏览[**PDF**](https://pan.baidu.com/s/1eS9nkXk),[**PPT**](https://pan.baidu.com/s/1sl96I5Z)。
 
 **产品原型**
 
-参赛者经过3天的开发，最后的产品原型可以为一套数据系统，
-具体应用，能够实现方案提出时的全部或部分功能。
+参赛者经过2天的开发，最后的产品原型可以为一套可运在BTC或ETC区块链上的Dapps，
+能够实现方案提出时的全部或部分功能。
 获胜者和赞助商将在全球加密社区展示他们的原型。
 
 **评委小组**
