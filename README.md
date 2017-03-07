@@ -147,6 +147,10 @@ SDG-Sustainable Development Goals
 他数据源。这些附加数据源应具有普适性，可以是其它项目区块
 链(如比特币)公开的数据源。
 
+**相关开发题目**
+
+SDG Dapp 要求请[浏览](https://pan.baidu.com/s/1eS9nkXk)
+
 **产品原型**
 
 参赛者经过3天的开发，最后的产品原型可以为一套数据系统，
@@ -194,7 +198,6 @@ SDG-Sustainable Development Goals
 ![Location](location.png)
 
 ## 报名方式
+通过活动行报名或发送电子邮件到 etcchinese@gmail.com
 
-Roy: etcchinese@gmail.com
 
-Max: max@msan.cn
