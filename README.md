@@ -149,7 +149,7 @@ SDG-Sustainable Development Goals
 **相关开发题目**
 
 - 金融、医疗、教育、零售、物联网等相关行业的区块链Dapps开发
-- **[SDG Dapps](http://www.bisgit.org/lab)** 详情请浏览[**PDF**](https://pan.baidu.com/s/1eS9nkXk),[**PPT**](https://pan.baidu.com/s/1sl96I5Z)。
+- **[SDG](http://www.bisgit.org/lab) Dapps** 详情请浏览[**PDF**](https://pan.baidu.com/s/1eS9nkXk),[**PPT**](https://pan.baidu.com/s/1sl96I5Z)。
 
 **产品原型**
 
